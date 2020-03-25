@@ -1,0 +1,5 @@
+<aura:component >
+    <c:helloHeading/>
+	<p>Hello Lightning!</p>
+    <h1>test size</h1>
+</aura:component>
